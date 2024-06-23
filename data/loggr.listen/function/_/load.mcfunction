@@ -19,4 +19,7 @@ execute unless data storage loggr.listen:settings {PERSIST:true} run function lo
 
 #scoreboards
 scoreboard objectives add -loggr.listen dummy
+scoreboard objectives add --loggr.listen dummy
 scoreboard objectives add loggr.listen-level dummy
+
+scoreboard players set *24000 --loggr.listen 24000
