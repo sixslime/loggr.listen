@@ -1,4 +1,5 @@
 
 # Dependencies
+- loggr
 
 # Supports
