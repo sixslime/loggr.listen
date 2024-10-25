@@ -18,7 +18,7 @@ Chat messages are in the following format: \
 
 Log level is indicated by color:
 - `0` : Aqua
-- `1` : Light Purple
+- `1` : Light Purple (Bold)
 - `2` : Gold
 - `3` : Gray
 ___
