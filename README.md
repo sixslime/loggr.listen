@@ -1,6 +1,6 @@
 
 # Loggr Listen | loggr.listen
-> Loggr subscriber that allows players to receive Loggr logs via chat message.
+> Loggr subscriber that sends new logs to listening players via chat.
 
 ## Dependencies
 - [load](https://github.com/sixslime/load)
