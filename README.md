@@ -7,12 +7,12 @@
 - [loggr](https://github.com/sixslime/loggr)
 
 # Usage
-#### Listening:
+### Listening
 Loggr Listen provides the `loggr.listen-level` scoreboard objective.
 
 Players with a `loggr.listen-level` score will recieve a message in chat when a log entry is sent with a level **less than or equal to** their score.
 
-#### Message Format:
+### Message Format
 Chat messages are in the following format: \
 "`[<time> : <source>] <message>`"
 
