@@ -13,8 +13,7 @@ Loggr Listen provides the `loggr.listen-level` scoreboard objective.
 Players with a `loggr.listen-level` score will recieve a message in chat when a log entry is sent with a level **less than or equal to** their score.
 
 ### Message Format
-Chat messages are in the following format: \
-"`[<time> : <source>] <message>`"
+Chat messages are in the following format: `[<time> : <source>] <message>`
 
 Log level is indicated by color:
 - `0` : Aqua
