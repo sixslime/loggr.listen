@@ -1,5 +1,0 @@
-
-# Dependencies
-- loggr
-
-# Supports
